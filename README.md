@@ -68,19 +68,23 @@ http://localhost:5173
 
 ### Wallet Connected
 
-(Add your wallet connected screenshot here)
+(<img width="526" height="461" alt="wallet connected png" src="https://github.com/user-attachments/assets/c2a67e02-2ebe-4efe-9a5d-1baa1482d47a" />
+)
 
 ### Balance Displayed
 
-(Add your balance screenshot here)
+(<img width="713" height="407" alt="balance png" src="https://github.com/user-attachments/assets/24d91886-9496-450f-ab8a-0074b45aa8bc" />
+)
 
 ### Successful Transaction
 
-(Add your successful transaction screenshot here)
+(<img width="756" height="470" alt="transaction-success png" src="https://github.com/user-attachments/assets/012d6116-dfb2-4b5f-ac4f-c2c6648068ad" />
+)
 
 ### Transaction Hash
 
-(Add your transaction hash screenshot here)
+(<img width="896" height="257" alt="transaction-hash png" src="https://github.com/user-attachments/assets/79558882-07e8-4c36-a391-e575d5b92cac" />
+)
 
 ## Testnet Transaction
 
