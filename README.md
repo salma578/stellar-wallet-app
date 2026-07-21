@@ -68,12 +68,13 @@ http://localhost:5173
 
 ### Wallet Connected
 
-(<img width="526" height="461" alt="wallet connected png" src="https://github.com/user-attachments/assets/c2a67e02-2ebe-4efe-9a5d-1baa1482d47a" />
+(<img width="713" height="407" alt="wallet-connected png" src="https://github.com/user-attachments/assets/e8981aea-0fed-480c-85b1-85136f35b511" />
+
 )
 
 ### Balance Displayed
 
-(<img width="713" height="407" alt="balance png" src="https://github.com/user-attachments/assets/24d91886-9496-450f-ab8a-0074b45aa8bc" />
+(<img width="693" height="233" alt="balance png" src="https://github.com/user-attachments/assets/afe887a1-4d20-458c-bcb9-2212818bc4f0" />
 )
 
 ### Successful Transaction
