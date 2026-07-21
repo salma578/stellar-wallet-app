@@ -29,3 +29,67 @@ This is a Stellar Wallet decentralized application (dApp) built using React and 
 
 ```bash
 git clone https://github.com/salma578/stellar-wallet-app.git
+```
+
+### 2. Navigate to project folder
+
+```bash
+cd stellar-wallet-app
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Run the application
+
+```bash
+npm run dev
+```
+
+### 5. Open in browser
+
+```
+http://localhost:5173
+```
+
+## How It Works
+
+1. Connect Freighter Wallet.
+2. The application fetches the wallet address.
+3. The XLM balance is displayed from Stellar Testnet.
+4. Enter a destination wallet address and amount.
+5. Approve the transaction in Freighter Wallet.
+6. The transaction status and hash are displayed after completion.
+
+## Screenshots
+
+### Wallet Connected
+
+(Add your wallet connected screenshot here)
+
+### Balance Displayed
+
+(Add your balance screenshot here)
+
+### Successful Transaction
+
+(Add your successful transaction screenshot here)
+
+### Transaction Hash
+
+(Add your transaction hash screenshot here)
+
+## Testnet Transaction
+
+Transaction Hash:
+
+```
+038195407d8bd648bfbf4cd54ab7e9b36800798770607bf85c53068f7253f0a3
+```
+
+## GitHub Repository
+
+https://github.com/salma578/stellar-wallet-app
