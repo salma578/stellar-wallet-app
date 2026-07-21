@@ -74,7 +74,8 @@ http://localhost:5173
 
 ### Balance Displayed
 
-(<img width="693" height="233" alt="balance png" src="https://github.com/user-attachments/assets/afe887a1-4d20-458c-bcb9-2212818bc4f0" />
+(<img width="657" height="332" alt="balabce png" src="https://github.com/user-attachments/assets/c731c949-e693-4fd0-8e77-5b22c6d48a0f" />
+
 )
 
 ### Successful Transaction
