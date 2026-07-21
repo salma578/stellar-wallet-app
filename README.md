@@ -1,16 +1,68 @@
-# React + Vite
+# Stellar Wallet dApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Description
 
-Currently, two official plugins are available:
+This is a simple Stellar Wallet decentralized application (dApp) built using React and Vite. It connects with the Freighter Wallet on the Stellar Testnet, displays the connected wallet address and XLM balance, and is designed to support sending XLM transactions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Connect Freighter Wallet
+- Disconnect Wallet
+- Display Wallet Address
+- Display Testnet XLM Balance
+- Send XLM on Stellar Testnet (In Progress)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
 
-## Expanding the ESLint configuration
+- React
+- Vite
+- Freighter Wallet
+- Stellar SDK
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Setup Instructions
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/salma578/stellar-wallet-app.git
+```
+
+2. Install dependencies
+
+```bash
+npm install
+```
+
+3. Start the project
+
+```bash
+npm run dev
+```
+
+4. Open
+
+```
+http://localhost:5173
+```
+
+## Screenshots
+
+### Wallet Connected
+
+(Add Screenshot)
+
+### Balance Displayed
+
+(Add Screenshot)
+
+### Successful Transaction
+
+(Add Screenshot)
+
+### Transaction Result
+
+(Add Screenshot)
+
+## GitHub Repository
+
+https://github.com/salma578/stellar-wallet-app
